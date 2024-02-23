@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.time  {
+    width: 60px;
+    height: 60px;
+}
+.Counter {
+    text-align: center;
+    background: black;
+}
+
+.Counter div {
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px;
+    background: #101010;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+
+}
+.picture {
+     width: 40px;
+     height: 40px;
+}
